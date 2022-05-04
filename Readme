@@ -1,0 +1,4 @@
+1. Create new virtualenv: `virtualenv -p python3 venv`
+2. Install dependencies: `pip install streamlit matplotlib mplfinance plotly git+https://github.com/StreamAlpha/pynse.git`
+3. Run app.py: `python app.py`
+4. Run streamlit server: `streamlit run app.py`
